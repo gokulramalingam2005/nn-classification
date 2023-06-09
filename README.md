@@ -45,8 +45,8 @@ Predict the new sample data.
 ## PROGRAM
 
 ```pthon
-#Developed by: PABBARTHI CHETAN SATHISH KUMAR
-#Registration no.: 212220230033
+#Developed by: Gokul R
+#Registration no.: 212222230039
 ```
 ```python
 import pandas as pd
